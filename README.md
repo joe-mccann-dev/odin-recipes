@@ -1,0 +1,1 @@
+The purpose of this project is to practice and review HTML and CSS fundamentals.
